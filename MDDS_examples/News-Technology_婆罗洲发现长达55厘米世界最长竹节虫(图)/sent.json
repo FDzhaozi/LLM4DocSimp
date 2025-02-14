@@ -1,0 +1,149 @@
+[
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "新浪科技报道，一名竹节虫爱好者在婆罗洲雨林发现了一只长达22英寸的竹节虫，其身长超过之前记录。",
+        "original": "据新浪科技(科学技术)(机构名)报道，一名竹节虫爱好者在婆罗洲(地名)雨林发现了一只身体完全伸展后长达22英寸（约55.88厘米）的竹节虫，超过了之前的纪录。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "自然历史博物馆的竹虫体内已有大量带翅膀形状延伸的卵，这些卵形似《哈里·波特》系列小说中的简化版魔法球。",
+        "original": "这只被送到自然历史博物馆的竹虫体内已有大量卵，每个卵都有翅膀形状的延伸，像是一个简化的“金色小偷”——《哈里·波特(人名)》系列小说中的魔法球。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "这种方式使卵分散，幼小的竹虫就不会爬到父母生活的树上抢食了。",
+        "original": "这种方式增加了卵的分散度，使幼小的竹虫不会爬到父母生活的树上抢食。”",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "一种昆虫可能是世界上最大的，但重量上它们无法与南美洲的Acteon甲虫等昆虫相比。",
+        "original": "一种昆虫可能是世界上最大的，但重量上它们不是其他昆虫的对手，比如南美洲的Acteon甲虫。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "最大的昆虫之一是一只来自新西兰的大型怀孕沙蝉，重量超过56.69克。",
+        "original": "已知最大的昆虫之一是一只怀孕的大型沙蝉，来自新西兰(地名)，重超过56.69克。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "新浪科技报道，一名竹节虫爱好者在婆罗洲雨林发现了一只长达22英寸的竹节虫，其长度超过了之前的记录。",
+        "original": "新浪科技(科学技术)(机构名)报道，一名竹节虫爱好者在婆罗洲(地名)雨林发现了一只长达22英寸的竹节虫，其身长超过之前记录。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "自然历史博物馆的竹虫体内已有大量带翅膀形状的蛋，这些蛋看起来像是《哈里·波特》系列小说中简化版的魔法球。",
+        "original": "自然历史博物馆的竹虫体内已有大量带翅膀形状延伸的蛋，这些蛋看起来像《哈里·波特(人名)》系列小说中的简化版魔法球。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "此方法使蛋分散，幼小的竹虫便不会爬到父母所生活的树木上抢食。",
+        "original": "这种方式使蛋分散，幼小的竹虫就不会爬行到父母生活的树木上抢食了。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "这种昆虫可能是世界上最大的，但与南美洲的Acteon甲虫相比，它们的重量却无法匹敌。",
+        "original": "一种昆虫可能是世界上最大的，但重量上它们无法与南美洲(地名)的Acteon甲虫等昆虫相比。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "婆罗洲发现了一种竹节虫，它是世界上最长的，长达55厘米，也是已知最长的昆虫。",
+        "original": "婆罗洲(地名)发现了一种世界上最长的竹节虫，长55厘米，是已知最长的昆虫。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "新浪科技报道，一名竹节虫爱好者在婆罗洲热带雨林中发现名为‘Chan's megastick’的虫子，该虫已被伦敦自然历史展览馆收藏。",
+        "original": "新浪科技(科学技术)(机构名)报道，一名竹节虫爱好者在婆罗洲(地名)热带雨林中发现此虫，名为“Chan's megastick”，已被伦敦自然历史展览馆收藏。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "这种竹节虫的特性和生活习性目前几乎还是未解之谜，尽管它可能生活在热带雨林树冠面。",
+        "original": "关于这种竹节虫的特性和生活特性，目前几乎还是未解之谜，尽管它可能生活在热带雨林树冠面。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "贝卡罗尼说，这些约0.5厘米大小的蛋能跳跃落地，可能是为了利用风力分散，避免幼小竹虫在父母生活的树木上争食。",
+        "original": "贝卡罗尼(人名)表示，这些蛋大小约0.5厘米，能跳起来落地，可能是为了利用风力分散，避免幼小竹虫在父母生活的树木上争食。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "本周，《动物分类》杂志上，英国专家布拉格博士首次描述并命名了这种可能是世界上最大的昆虫的竹虫。",
+        "original": "本周，《动物分类》(机构名)杂志上，英国专家布拉格(人名)博士首次描述并命名了这种竹虫，它可能是世界上最大的昆虫。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    }
+]

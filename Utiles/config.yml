@@ -1,0 +1,33 @@
+aiml_qwen_api_key: xxxx
+aiml_qwen_base_url: https://api.aimlapi.com
+
+ali_api_key: xxxx
+ali_base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+
+
+
+ch_word2vec_bin_path: D:\Dataset\model\tencent-ailab-embedding-zh-d200-v0.2.0-s\tencent-ailab-embedding-zh-d200-v0.2.0-s\tencent-ailab-embedding-zh-d200-v0.2.0-s\Tencent_AILab_ChineseEmbedding.bin
+
+hanzi_hsk_path: Methods\HSK_standard\汉字.json
+ci_hsk_path: Methods\HSK_standard\词语.json
+freq_db_path: Database\DBs\freq.db
+abbre_db_path: Database\DBs\abbres.db
+cis_db_path: Database\DBs\cis.db
+idioms_db_path: Database\DBs\idioms.db
+level_db_path: Database\DBs\levels.db
+sim_db_path: Database\DBs\sims.db
+word_freq_db_path: Database\DBs\word_freq.db
+
+
+source_json_path: Datasets\op_passages.json
+output_json_path: Output_Docs\
+#output_json_path: Align_Output_Docs\
+#output_json_path: Eval_Docs\
+
+
+closeai_base_url: https://api.openai-proxy.org/v1
+closeai_api_key: xxxx
+
+
+zhipu_api_key: xxxx
+

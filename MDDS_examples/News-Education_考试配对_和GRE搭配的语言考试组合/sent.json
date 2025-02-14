@@ -1,0 +1,140 @@
+[
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "新托福考试已开始报名。但许多同学有疑问，其中一些同学已有旧托福分数，正考虑报考新托福或雅思。",
+        "original": "新托福考试已经开始报名，但很多同学心中仍有疑问，有的同学原本有旧托福分数，现在打算考新托福或雅思。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "许多学校要求奖学金申请者通过英语教学能力考试，但某些专业因特殊原因可免考。面试时不需要提供英语教学能力考试成绩。",
+        "original": "但许多学校奖学金要求英语教学能力考试，有些专业因为特殊原因会放宽要求，允许面试而不需要提供英语教学能力考试。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "读硕士通常不需要考英语教学能力考试，分数要求相对较低，一般是学校规定的标准线。",
+        "original": "如果读硕士，就没有必要费心考英语教学能力考试，分数要求也会比较低，通常是学校给出的标准线。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "硕士入学考试加GRE不划算，因为一般硕士无奖学金，无需做事。",
+        "original": "4、硕士入学考试+GRE是最不划算的做法，因为硕士一般没有奖学金，也就不需要你做事。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "虽然很多美国研究生院接受雅思+GRE，但在前50的学校中，只有少数学校这样做，让人惊讶的是，了解情况后才意识到这一点。",
+        "original": "5、雅思+GRE，虽然被很多美国(美利坚合众国)研究生院接受，但前50的学校中只有几所，而且不问不知道，一问吓一跳。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "很多学校的master要求不高，但费用昂贵，尤其是口语和写作，这两项是美国人在IELTS中特别看重的，而我们通常不占优势。",
+        "original": "很多学校的master要求不高，但费用很高，尤其是口语和写作这些美国(美利坚合众国)人在IELTS中看重的部分，我们通常不是强项。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "好学校一般只要求TOEFL成绩，差一些的甚至不要GRE成绩。这样的学校既难达到，又不想降格以求。",
+        "original": "而且，好学校的master一般只要求TOEFL成绩，差一些的学校甚至不要GRE成绩，真是有点高攀不上，低就也不行。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "很多同学有疑问，其中一些已有老托福分数，正在考虑报考新托福或雅思。",
+        "original": "但很多同学有疑问，一些同学已有老托福分数，正考虑报考(报名考试)新托福或雅思。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "读硕士通常不需要考英语教学能力考试，分数要求低于学校规定的标准线。",
+        "original": "读硕士通常不需要考英语教学能力考试，分数要求相对较低，一般是学校规定的标准线。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "很多美国研究生院接受雅思和GRE，但在前50的学校中，只有少数这样做。让人惊讶的是，了解情况后才意识到这一点。",
+        "original": "虽然很多美国(美利坚合众国)研究生院(机构名)接受雅思加GRE，但在前50的学校中，只有少数学校这样做，让人惊讶的是，了解情况后才意识到这一点。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "很多学校的master要求不高，但费用昂贵。口语和写作是美国人在IELTS中特别看重的，这两项我们通常不占优势。",
+        "original": "很多学校的master要求不高，但费用昂贵，尤其是口语和写作，这两项是美国(美利坚合众国)人在IELTS中特别看重的，而我们通常不占优势。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "以下几种考试可与GRE搭配，让我们讨论适合的语言考试。",
+        "original": "以下是几种可以和GRE搭配的考试，让我们一起来讨论适合的语言考试。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Education"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "新托福难度大，标准不低。前50名的学校大多要求100分左右，预计将成为一大难题。",
+        "original": "新托福难度大，但标准不低，前50名的学校要求分数大多在100分左右，预计新托福将成为一大难题。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "News-Education"
+    }
+]

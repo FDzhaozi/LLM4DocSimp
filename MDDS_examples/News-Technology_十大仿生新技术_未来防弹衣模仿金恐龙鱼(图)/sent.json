@@ -1,0 +1,178 @@
+[
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "十大仿生新技术包括未来防弹衣模仿金恐龙鱼。据美国MSNBC网站报道，科学家和工程师从大自然中获取灵感，许多发明得益于这种启发。",
+        "original": "十大仿生新技术：未来防弹衣模仿金恐龙鱼(图) 新浪科技(科学技术)(机构名)讯 北京时间10月23日消息，据美国MSNBC网站报道，科学家和工程师一直从大自然中获得灵感，许多发明创造都得益于大自然的启发。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "几年前，科学家发现壁虎足垫上的细小分叉刚毛具有神奇力量。这种力量使壁虎能轻松翻越墙壁。",
+        "original": "几年前，科学家发现壁虎足垫上数百万个细小分叉的刚毛具有神奇力量，这种力量使壁虎能够轻松翻越墙壁。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "科学家正在研发模仿这种力量的强力胶粘物。这项研究有望提升制造爬墙机器人和对头发友好绷带的可能性。",
+        "original": "现在，科学家正在研发模仿这种力量的强力胶粘物，以提升制造爬墙机器人和对头发友好的绷带的可能性。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "软硬适中的塑料像海参，受到惊吓会释放特殊物质。这种物质使海参皮肤几秒内变硬，形成盔甲状。",
+        "original": "像海参一样软硬适中的塑料，受到惊吓后，柔软的海参会释放一种特殊物质，使皮肤在几秒内变硬，像一层盔甲。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "鲨鱼皮表面的V形皱褶粗糙，能显著降低水流摩擦力，使水流高效通过身体，从而实现快速游动。",
+        "original": "鲨鱼皮表面粗糙的V形皱褶可以大大减少水流的摩擦力，使身体周围的水流更高效地流过进而实现快速游动。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "在北京奥运会游泳比赛中，89%的金牌得主穿了第二代鲨鱼泳衣Fastskin FZR Racer，菲尔普斯就是其中之一。",
+        "original": "在北京奥运会(奥林匹克运动会)的游泳比赛中，有多达89%的金牌得主身穿第二代鲨鱼泳衣Fastskin FZR Racer，其中就包括菲尔普斯(人名)。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "在未来战场上，士兵可能身穿一种类似非洲鱼‘外衣’的防弹盔甲，如图片所示。",
+        "original": "如图片所示，在未来战场上出现的士兵可能身穿一层与一种非洲鱼“外衣”类似的防弹盔甲。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "目前，美国陆军已向麻省理工学院工程师提供资金。这揭示了构成每个鳞片的多层材料排列方式，保护了远古时代鱼类免受捕食者侵害的秘密。",
+        "original": "目前，美国陆军(机构名)已向麻省理工学院(机构名)的工程师提供资金，揭开构成每个鳞片的多层材料如何排列进而保护这种远古时代的鱼免遭捕食者之口的秘密。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "2008年夏季，研究人员报告了他们的发现，并计划将这些发现应用于结构材料的研究，比如为士兵开发防弹盔甲。",
+        "original": "研究人员在2008年夏季报告了他们的发现，并计划将发现应用到结构材料研制上，例如为士兵开发防弹盔甲。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "未来，人们可能会用这种技术制成的手套轻松越过障碍，就像壁虎一样。",
+        "original": "未来，人们可能会通过这种技术制成的手套，拥有和壁虎一样轻松越过的能力。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "2008年夏季，研究人员报告了他们的发现，并计划应用这些发现于结构材料的研究，如开发防弹盔甲。",
+        "original": "2008年夏季，研究人员报告了他们的发现，并计划将这些发现应用于结构材料的研究，比如为士兵开发防弹盔甲。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "研究科学的人正在研发模仿这种力量的强力胶粘物，这种胶有望提升制造机器人和对头发友好绷带的可能性。",
+        "original": "研究科学的人正在研发(研究开发)模仿这种力量的强力胶粘物，有望提升制造机器人和对头发友好绷带的可能性。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "调整语序",
+            "转换句式"
+        ],
+        "simplified_text": "未来，人们可能轻松地用这种技术制成的手套越过障碍，如同壁虎。那时，他们可以和这些四脚动物比一比高低。",
+        "original": "未来，人们可能会用这种技术制成的手套轻松越过障碍，就像壁虎一样，届时可以和这些四脚动物一较高下。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "像海里的一种软体动物一样，这种兼具软硬的塑料在仿生学中应用前景广阔。",
+        "original": "2. 像海里的一种软体动物一样兼具软硬的塑料：这种材料在仿生学中具有广泛的应用前景。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "研究工作者研究遇水变软的塑料，这种材料可用于生物医学植入，如向大脑植入微型电极。",
+        "original": "这一特性推动研究工作者研究遇水变软的塑料，这种材料可用于生物医学植入，如向大脑植入微型电极。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "组合"
+        ],
+        "simplified_text": "他成功的原因是刻苦训练、天赋，加上穿着Speedo泳衣。",
+        "original": "他成功的原因不仅是刻苦训练和天赋，还因为他穿的Speedo(机构名)泳衣。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "News-Technology"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "这揭示了鳞片多层材料排列方式，这是保护远古鱼类免受捕食者伤害的秘密。",
+        "original": "这揭示了构成每个鳞片的多层材料排列方式，保护了远古鱼类不受捕食者伤害的秘密。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "News-Technology"
+    }
+]
