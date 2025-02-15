@@ -81,13 +81,21 @@ def seg_to_chunks(document, max_chars=350):
     return chunks
 
 
-# 简化第一级，不进行para_aspect的判断
-# 第二级，para判断，进行句子插入、切分、重排序
-# 第三级，加入删除
+
 
 def simp_para_prompt(text: str, version: int = 1):
     if version == 1:
-        return None
+        prompt = f"""请对给定的中文文本进行简化处理，主要针对复杂段落的结构调整。你的任务是：
+                    1. 对段落结构进行调整优化（为多个段落划分为一个片段并添加副标题，副标题以"##"开头），使其可读性更强。
+                    2. 请注意，你只需要简化段落之间的结构，而至于汉字、词汇、句子等内容相关的要素不可以修改也不可以删减。
+                    3. 以JSON格式输出结果，包含以下两个键：
+                       - "simplified_text": 最终简化后的完整文本。
+
+                    请确保简化后的文本保持原意，同时提高可读性。
+                    ```
+                请根据以上说明处理下面的文本：
+                原始文本：[{text}]\n
+                """
     elif version == 2:
         # this is a chunk
         prompt = f"""请对给定的中文文本进行简化处理，主要针对复杂段落的结构调整。你的任务是：
