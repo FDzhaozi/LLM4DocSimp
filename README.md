@@ -47,7 +47,7 @@ Includes utility functions such as parameter configurations, data preprocessing 
 
 The **JWDS** and **MDDS** datasets are crucial to the evaluation of the LLM4DocSimp framework. These datasets contain both simplified and original versions of texts, with different levels of difficulty.
 
-- **Datasets**: [Link to JWDS and MDDS Datasets]([https://anonymous.4open.science/r/LLM4DocSimp-Datasets-2E55/](https://www.dropbox.com/scl/fi/vtulxo31vem10imrpjwu6/LLM4DocSimp-Datasets.zip?rlkey=r0aifuxogbt23j4biiabgqw41&st=9sn1wkvb&dl=0))
+- **Datasets**: [Link to JWDS and MDDS Datasets](https://www.dropbox.com/scl/fi/vtulxo31vem10imrpjwu6/LLM4DocSimp-Datasets.zip?rlkey=r0aifuxogbt23j4biiabgqw41&st=9sn1wkvb&dl=0)
 
 ## 4. How to Run the Codes
 
